@@ -12232,6 +12232,19 @@
   "faucets": [],
   "infoURL": "https://www.lorenzo-protocol.xyz/"
 }, {
+  "name": "B3",
+  "chainId": 8333,
+  "shortName": "b3",
+  "networkId": 8333,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.b3.fun"],
+  "faucets": [],
+  "infoURL": "https://b3.fun"
+}, {
   "name": "Dracones Financial Services",
   "chainId": 8387,
   "shortName": "fuck",
@@ -17848,6 +17861,19 @@
   "faucets": ["https://claim.liquidlayer.network"],
   "infoURL": "https://testnet-scan.liquidlayer.network"
 }, {
+  "name": "StratoVM Testnet",
+  "chainId": 93747,
+  "shortName": "stratovm",
+  "networkId": 93747,
+  "nativeCurrency": {
+    "name": "SVM",
+    "symbol": "SVM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.stratovm.io"],
+  "faucets": [],
+  "infoURL": "https://www.stratovm.io/"
+}, {
   "name": "Mantis Testnet (Hexapod)",
   "chainId": 96970,
   "shortName": "mantis",
@@ -20252,6 +20278,19 @@
   "rpc": ["https://rpc-testnet.bizex.io/"],
   "faucets": [],
   "infoURL": "https://www.biztoken.io/"
+}, {
+  "name": "BOB Sepolia",
+  "chainId": 808813,
+  "shortName": "bob-sepolia",
+  "networkId": 808813,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://bob-sepolia.rpc.gobob.xyz", "wss://bob-sepolia.rpc.gobob.xyz"],
+  "faucets": [],
+  "infoURL": "https://gobob.xyz"
 }, {
   "name": "zkLink Nova Mainnet",
   "chainId": 810180,
@@ -22813,6 +22852,19 @@
   "rpc": ["https://londonpublic.alphabetnetwork.org", "wss://londonpublic.alphabetnetwork.org/ws/", "https://main-rpc.com", "wss://main-rpc.com/ws/"],
   "faucets": [],
   "infoURL": "https://alphabetnetwork.org"
+}, {
+  "name": "Fluence Stage",
+  "chainId": 123420000220,
+  "shortName": "fluence-stage",
+  "networkId": 123420000220,
+  "nativeCurrency": {
+    "name": "tFLT",
+    "symbol": "tFLT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-123420000220.raas-testnet.gelato.digital/", "wss://ws-123420000220.raas-testnet.gelato.digital/"],
+  "faucets": [],
+  "infoURL": "https://fluence.network/"
 }, {
   "name": "Ntity Mainnet",
   "chainId": 197710212030,
