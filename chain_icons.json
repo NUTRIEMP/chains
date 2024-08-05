@@ -1151,6 +1151,14 @@
     "format": "png"
   }]
 }, {
+  "name": "redefi",
+  "icons": [{
+    "url": "ipfs://QmQd2MWwDkGsH6JsHPAKXqy8o2kedYMzbnaEHoRpmvSiLW",
+    "width": 350,
+    "height": 350,
+    "format": "png"
+  }]
+}, {
   "name": "vecno",
   "icons": [{
     "url": "ipfs://QmXPmM55AvkpEmqCvfP9YNQV1xsRdsPZDzwp6QHVThw6Wv",
@@ -1812,6 +1820,14 @@
     "url": "ipfs://QmSFMBk3rMyu45Sy9KQHjgArFj4HdywANNYrSosLMUdcti",
     "width": 1213,
     "height": 1213,
+    "format": "png"
+  }]
+}, {
+  "name": "connext",
+  "icons": [{
+    "url": "ipfs://QmQBuGUPQ4f7zREjdviV4itwJB6gCbYEMvfaiWqFMweTPm",
+    "width": 128,
+    "height": 128,
     "format": "png"
   }]
 }, {
@@ -3725,6 +3741,14 @@
     "width": 31,
     "height": 31,
     "format": "svg"
+  }]
+}, {
+  "name": "slingshot",
+  "icons": [{
+    "url": "ipfs://QmVhM3wHXdXkFEvW4x4vYqT7bx7gb5BQLWcLebHBeAzAXF",
+    "width": 2000,
+    "height": 2000,
+    "format": "png"
   }]
 }, {
   "name": "taraxa",
