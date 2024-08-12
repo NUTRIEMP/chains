@@ -5439,7 +5439,7 @@
   "networkId": 1001,
   "nativeCurrency": {
     "name": "KAIA",
-    "symbol": "KAIA",
+    "symbol": "KLAY",
     "decimals": 18
   },
   "rpc": ["https://public-en.kairos.node.kaia.io"],
@@ -6225,6 +6225,19 @@
   "rpc": ["https://hybrid-testnet.rpc.caldera.xyz/http", "wss://hybrid-testnet.rpc.caldera.xyz/ws"],
   "faucets": [],
   "infoURL": "https://buildonhybrid.com"
+}, {
+  "name": "Bitcoin Protocol Testnet",
+  "chainId": 1227,
+  "shortName": "BTCP",
+  "networkId": 1227,
+  "nativeCurrency": {
+    "name": "BTC Protocol",
+    "symbol": "BTCP",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-chain.btcprotocol.io/"],
+  "faucets": [],
+  "infoURL": "https://btcprotocol.io/"
 }, {
   "name": "Exzo Network Mainnet",
   "chainId": 1229,
@@ -12290,10 +12303,10 @@
   "networkId": 8217,
   "nativeCurrency": {
     "name": "KAIA",
-    "symbol": "KAIA",
+    "symbol": "KLAY",
     "decimals": 18
   },
-  "rpc": ["https://public-en-cypress.klaytn.net"],
+  "rpc": ["https://public-en.node.kaia.io"],
   "faucets": [],
   "infoURL": "https://kaia.io"
 }, {
@@ -15950,6 +15963,19 @@
   "faucets": [],
   "infoURL": "https://oho.ai"
 }, {
+  "name": "Aleph Zero EVM",
+  "chainId": 41455,
+  "shortName": "aleph-zero",
+  "networkId": 41455,
+  "nativeCurrency": {
+    "name": "Aleph Zero",
+    "symbol": "AZERO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.alephzero.raas.gelato.cloud", "wss://ws.alephzero.raas.gelato.cloud"],
+  "faucets": [],
+  "infoURL": "https://alephzero.org/"
+}, {
   "name": "Opulent-X BETA",
   "chainId": 41500,
   "shortName": "ox-beta",
@@ -16066,6 +16092,19 @@
   "rpc": ["https://mainnet-rpc.goldxchain.io"],
   "faucets": [],
   "infoURL": "https://goldxchain.io"
+}, {
+  "name": "AssetChain Testnet",
+  "chainId": 42421,
+  "shortName": "rwa",
+  "networkId": 42421,
+  "nativeCurrency": {
+    "name": "Real World Asset",
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "rpc": ["https://enugu-rpc.assetchain.org"],
+  "faucets": ["https://faucet.assetchain.org"],
+  "infoURL": "https://docs.assetchain.org"
 }, {
   "name": "ZKFair Mainnet",
   "chainId": 42766,
@@ -16297,7 +16336,7 @@
     "symbol": "GAS",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-1.rpc.banelabs.org"],
+  "rpc": ["https://mainnet-1.rpc.banelabs.org", "https://mainnet-2.rpc.banelabs.org"],
   "faucets": [],
   "infoURL": "https://neo.org/"
 }, {
@@ -16349,7 +16388,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://zircuit1.p2pify.com/"],
+  "rpc": ["http://zircuit1-testnet.p2pify.com/"],
   "faucets": [],
   "infoURL": "https://www.zircuit.com/"
 }, {
@@ -16362,7 +16401,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://zircuit1-mainnet.p2pify.com/"],
   "faucets": [],
   "infoURL": "https://www.zircuit.com/"
 }, {
@@ -16638,6 +16677,19 @@
   "rpc": ["https://rei-testnet-rpc.moonrhythm.io"],
   "faucets": ["http://kururu.finance/faucet?chainId=55556"],
   "infoURL": "https://reichain.io"
+}, {
+  "name": "Flamma Mainnet",
+  "chainId": 55614,
+  "shortName": "FlammaMainnet",
+  "networkId": 55614,
+  "nativeCurrency": {
+    "name": "Flamma",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.flamma.network"],
+  "faucets": [],
+  "infoURL": "https://flamma.network"
 }, {
   "name": "Lambda Chain Mainnet",
   "chainId": 56026,
@@ -17900,18 +17952,18 @@
   "faucets": ["https://proteusfaucet.nautchain.xyz"],
   "infoURL": "https://docs.nautchain.xyz"
 }, {
-  "name": "Inoai Network",
+  "name": "InoAi",
   "chainId": 88559,
-  "shortName": "INOAI",
+  "shortName": "INO",
   "networkId": 88559,
   "nativeCurrency": {
-    "name": "Inoai",
+    "name": "InoAi",
     "symbol": "INO",
     "decimals": 18
   },
   "rpc": ["https://inoai-network.com"],
   "faucets": [],
-  "infoURL": "https://inoai.info"
+  "infoURL": "https://docs.inoai.info/"
 }, {
   "name": "ZKasino Mainnet",
   "chainId": 88800,

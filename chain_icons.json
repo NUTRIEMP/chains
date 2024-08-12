@@ -823,6 +823,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "btcprotocol",
+  "icons": [{
+    "url": "ipfs://QmYgFtJjxUgUDr3L9fsXvgzUTanrzcNj2e6RJ8VmkwpcuB",
+    "width": 792,
+    "height": 792,
+    "format": "png"
+  }]
+}, {
   "name": "zkevm",
   "icons": [{
     "url": "ipfs://QmNmJZkQgx9RcFLS3rvxQTVYcPfyAFPr667keHTUxB9PDv",
@@ -1092,6 +1100,14 @@
     "url": "ipfs://Qmag2hr5DQghRzKPN3oUFBkjWzqd5CndQzZeb5LfoiMCXf",
     "width": 160,
     "height": 160,
+    "format": "png"
+  }]
+}, {
+  "name": "aleph-zero",
+  "icons": [{
+    "url": "ipfs://QmUmw7yJDdkTV6SNp5PDfMLe5LWMfUo6vyQbh7fdhTfGDH",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -2105,7 +2121,7 @@
 }, {
   "name": "inoai",
   "icons": [{
-    "url": "ipfs://QmdP8zAZEwUbf3pt8t9Ykho866ni5AMgutvkn3cBsV8gKG",
+    "url": "ipfs://QmdiEBREiSP9TBHqxV8Ap3kehvBktBWFCpXs3mkC4e18zM",
     "width": 500,
     "height": 500,
     "format": "png"
@@ -4604,6 +4620,14 @@
     "url": "ipfs://bafkreihsas2rwakc7lllmtb4pcgwutlel2woibmqmhd4aiin342zgtpmwy",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "assetchain",
+  "icons": [{
+    "url": "ipfs://QmXc4bxuyWvQFqjuunXmvZZs1AwGChyY7sGYK6tgCkp3nJ",
+    "width": 1500,
+    "height": 1500,
     "format": "png"
   }]
 }, {
